@@ -3,7 +3,7 @@
 ## Sommaire
 - [Linux](Linux/index.md)
 - [Windows](Windows/Sommaire.md)
-- [Cloud]()
-- [Sauvegardes]()
-- [Actualités]()
+- [Cloud](Cloud/Sommaire.md)
+- [Sauvegardes](Sauvegardes/Sommaire.md)
+- [Actualités](Actualités/Sommaire.md)
 
