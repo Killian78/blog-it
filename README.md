@@ -1,1 +1,9 @@
-# blog-it
+# Home
+
+## Catégories
+
+- Linux
+- Windows
+- Cloud
+- Sauvegardes
+- Actualités
