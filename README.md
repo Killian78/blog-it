@@ -1,7 +1,7 @@
 # Homepage
 
 ## Sommaire
-- [Linux](blob/main/Linux/index.md)
+- [Linux](Linux/index.md)
 - [Windows]()
 - [Cloud]()
 - [Sauvegardes]()
