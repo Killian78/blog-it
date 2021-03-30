@@ -5,5 +5,6 @@
 - [Windows](Windows/Sommaire.md)
 - [Cloud](Cloud/Sommaire.md)
 - [Sauvegardes](Sauvegardes/Sommaire.md)
+- [Sécurité](Sécurité/Sommaire.md)
 - [Actualités](Actualites/Sommaire.md)
 
