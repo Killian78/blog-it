@@ -6,5 +6,6 @@
 - [Cloud](Cloud/Sommaire.md)
 - [Sauvegardes](Sauvegardes/Sommaire.md)
 - [Sécurité](Sécurité/Sommaire.md)
+- [Web](Web/Sommaire.md)
 - [Actualités](Actualites/Sommaire.md)
 
